@@ -21,6 +21,7 @@ Atualmente focado no ecossistema **Rust, Python e AWS** 🦀🐍☁️
 ![Delphi](https://img.shields.io/badge/Delphi-722138?style=for-the-badge&logo=delphi&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Firebird](https://img.shields.io/badge/Firebird-%23FF0000.svg?style=for-the-badge&logo=firebird&logoColor=white)
+![AWS](https://img.shields.io/badge/Amazon_AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 #### Infraestrutura e Ferramentas
 ![Mikrotik](https://img.shields.io/badge/Mikrotik-EE2329?style=for-the-badge&logo=mikrotik&logoColor=white)
