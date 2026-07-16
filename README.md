@@ -1,6 +1,6 @@
 # Olá, Eu sou Gabriel Horacio Santos Silva! 👋
 
-### 🎓 Estudante de Análise e Desenvolvimento de Sistemas
+### 🎓 Estudante de Análise e Desenvolvimento de Sistemas e DevOps Enginering + Cloud Computing
 Atualmente focado no ecossistema **Rust** 🦀
 
 ---
